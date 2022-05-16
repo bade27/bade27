@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Matteo Badenchini and I'm a Computer Science and Engineering Student at Politecnico di Milano. I am currently working on a Master Thesis on Process Discovery using Graph Neural Netowrks to learn the graph representation of industrial processes. While at the Bachelor level my studies concerned Software Engineering, during my Master I mainly focused on Machine (Deep) Learning, Data Science and Game Theory.
+I'm Matteo Badenchini and I'm a Master Student in Computer Science and Engineering at Politecnico di Milano. I am currently working on a Master Thesis on Process Discovery using Graph Neural Netowrks to learn the graph representation of industrial processes. While at the Bachelor level my studies concerned Software Engineering, during my Master I mainly focused on Machine (Deep) Learning, Data Science and Game Theory.
 
 🎓 Education: <br>
   Bachelor of Science in Computer Science and Engineering at Politecnico di Milano
