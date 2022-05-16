@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**bade27/bade27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matteo Badenchini and I'm a Computer Science and Engineering Student at Politecnico di Milano. I am currently working on a Master Thesis on Process Discovery using Graph Neural Netowrks to learn the graph representation of industrial processes. While at the Bachelor level my studies concerned Software Engineering, during my Master I mainly focused on Machine (Deep) Learning, Data Science and Game Theory.
 
-Here are some ideas to get you started:
+🎓 Education:
+Bachelor of Science in Computer Science and Engineering at Politecnico di Milano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:
+- <a href="https://github.com/bade27/SagradaProject"> Sagrada </a>: 
+  Final (group) project of my Bachelor Degree. It is a Java implementation of the board game Sagrada. 
+- <a href="https://github.com/bade27/Computer_Graphics_Project"> Arkanoid 3D </a>:
+  3D implementation of the arcade game Arkanoid using Javascript and WebGL
+
+
+📢 Contacts:
+
+My <a href="https://www.linkedin.com/in/matteo-badenchini-a3a252204"> LinkedIn <a> profile <br>
+My email: matteo.badenchini [at] protonmail [dot] com
