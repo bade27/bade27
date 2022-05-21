@@ -12,7 +12,7 @@ I'm Matteo Badenchini and I'm a Master Student in Computer Science and Engineeri
     3D implementation of the arcade game Arkanoid using Javascript and WebGL
 
 📢 Contacts: <br>
-  My <a href="https://www.linkedin.com/in/matteo-badenchini-a3a252204"> LinkedIn <a> profile <br>
+  My <a href="https://www.linkedin.com/in/matteo-badenchini"> LinkedIn <a> profile <br>
   My email: matteo.badenchini [at] protonmail [dot] com
 
 💻 Other Profiles:
